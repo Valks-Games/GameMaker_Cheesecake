@@ -1,3 +1,5 @@
+[Download and Play](https://github.com/valkyrienyanko/GameMaker_Cheesecake/releases)
+
 ![1](http://imgs.fyi/img/6uv0.png)
 ![2](http://imgs.fyi/img/6uv1.png)
 ![3](http://imgs.fyi/img/6uv2.png)
